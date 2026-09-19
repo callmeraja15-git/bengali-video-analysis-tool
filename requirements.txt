@@ -2,3 +2,6 @@ faster-whisper
 opencv-python
 numpy
 pandas
+soundcard
+soundfile
+pywin32
